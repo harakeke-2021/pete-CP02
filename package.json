@@ -1,0 +1,22 @@
+{
+  "name": "pete-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harakeke-2021/pete-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harakeke-2021/pete-CP02/issues"
+  },
+  "homepage": "https://github.com/harakeke-2021/pete-CP02#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
